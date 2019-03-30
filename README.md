@@ -4,7 +4,7 @@ with email and s3 bucket setup for profile pic upload
 
 Before Using install "mongoDb"(3.2) and "nodeJs" latest version
 
-step 1: git clone https://github.com/ShivaKumarShivan1/node-project-setup.git
+step 1: git clone https://github.com/SingamShiva/nodeJs-rest-api-project-setup.git
 
 step 2: yarn install / npm install
 
